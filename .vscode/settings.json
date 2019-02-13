@@ -1,6 +1,7 @@
 {
-    "python.linting.pylintEnabled": true,
+    "python.linting.pylintEnabled": false,
     "python.linting.enabled": true,
     "python.pythonPath": "/Users/jonesdevlin/anaconda3/bin/python",
-    "python.globalModuleInstallation": true
+    "python.globalModuleInstallation": true,
+    "python.linting.pep8Enabled": true
 }
